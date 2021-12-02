@@ -1,0 +1,32 @@
+.usersEach {
+  width: 400px;
+  height: 172px;
+  margin-top: 5px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.active-users {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+.avatarr {
+  margin-left: 10px;
+  margin-top: 15px;
+}
+.nrupul {
+  margin-top: -57px;
+  margin-left: 77px;
+}
+.para {
+  margin-top: -19px;
+  margin-left: 0px;
+}
+.profe {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.sliderL {
+  margin-left: 10px;
+}

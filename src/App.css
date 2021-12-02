@@ -27,6 +27,39 @@
 .App-link {
   color: #61dafb;
 }
+.dashboardinfo {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 5px;
+  margin-bottom: -13px;
+}
+.users {
+  display: flex;
+  justify-content: space-between;
+  margin: 6px;
+}
+.heading {
+  margin-top: -1px;
+  margin-left: 11px;
+}
+.heading2 {
+  margin-top: -1px;
+}
+h3 {
+  margin-top: -40px;
+  margin-left: 68px;
+  margin-bottom: 11px;
+}
+p {
+  margin-top: -16px;
+  margin-left: 70px;
+}
+
+.points {
+  display: flex;
+  justify-content: space-between;
+  margin: 6px;
+}
 
 @keyframes App-logo-spin {
   from {
